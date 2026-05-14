@@ -1,0 +1,24 @@
+
+IT Helpdesk & Ticket Intelligence Dashboard Dataset
+
+1. helpdesk_tickets.csv
+- Ticket_ID : Unique Ticket Number
+- Created_Date : Ticket creation timestamp
+- Resolved_Date : Ticket resolution timestamp
+- Priority : Ticket priority level
+- Status : Current ticket status
+- Channel : Ticket source channel
+- Category : Issue category
+- Agent_ID : Assigned support agent
+- Customer_Name : Customer name
+- Resolution_Time_Hours : Total hours taken to resolve
+- SLA_Breached : Whether SLA was breached
+- Customer_Satisfaction : Rating from 1 to 5
+
+2. helpdesk_agents.csv
+- Agent_ID : Unique agent ID
+- Agent_Name : Agent full name
+- Department : Team department
+- Experience_Years : Experience in years
+- Shift : Work shift
+- Location : Office location
